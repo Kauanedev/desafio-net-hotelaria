@@ -13,7 +13,14 @@ namespace desafio_net_hotelaria.models
 
         public void RegisterGuests(List<Guest> guests)
         {
-            Guests = guests;
+            if (Suite.Capacity >= guests.Count)
+            {
+                Guests = guests;
+            }
+            else
+            {
+                throw new Exception("Capacity exceeded");
+            }
         }
 
         public void RegisterSuite(Suite suite)
