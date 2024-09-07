@@ -33,9 +33,14 @@ namespace desafio_net_hotelaria.models
             return Guests.Count;
         }
 
-        public static decimal CalculateTotalPrice()
+        public decimal CalculateTotalPrice()
         {
-            decimal charge = 0;
+            decimal charge = Days * Suite.DailyCharges;
+
+            if (Days >= 10)
+            {
+                charge *= 0.1M;
+            }
 
             return charge;
         }
