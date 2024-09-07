@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace desafio_net_hotelaria.models
 {
-    public class Reserva(int days)
+    public class Reservation(int days)
     {
         public List<Guest> Guests { get; set; }
         public Suite Suite { get; set; }
