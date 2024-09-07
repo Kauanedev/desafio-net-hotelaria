@@ -39,7 +39,7 @@ namespace desafio_net_hotelaria.models
 
             if (Days >= 10)
             {
-                charge *= 0.1M;
+                charge *= 0.9M;
             }
 
             return charge;

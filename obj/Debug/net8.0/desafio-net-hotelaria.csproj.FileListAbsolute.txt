@@ -1,0 +1,14 @@
+C:\Users\Kauane\Studies\DIO\dotnet\desafio-net-hotelaria\bin\Debug\net8.0\desafio-net-hotelaria.exe
+C:\Users\Kauane\Studies\DIO\dotnet\desafio-net-hotelaria\bin\Debug\net8.0\desafio-net-hotelaria.deps.json
+C:\Users\Kauane\Studies\DIO\dotnet\desafio-net-hotelaria\bin\Debug\net8.0\desafio-net-hotelaria.runtimeconfig.json
+C:\Users\Kauane\Studies\DIO\dotnet\desafio-net-hotelaria\bin\Debug\net8.0\desafio-net-hotelaria.dll
+C:\Users\Kauane\Studies\DIO\dotnet\desafio-net-hotelaria\bin\Debug\net8.0\desafio-net-hotelaria.pdb
+C:\Users\Kauane\Studies\DIO\dotnet\desafio-net-hotelaria\obj\Debug\net8.0\desafio-net-hotelaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kauane\Studies\DIO\dotnet\desafio-net-hotelaria\obj\Debug\net8.0\desafio-net-hotelaria.AssemblyInfoInputs.cache
+C:\Users\Kauane\Studies\DIO\dotnet\desafio-net-hotelaria\obj\Debug\net8.0\desafio-net-hotelaria.AssemblyInfo.cs
+C:\Users\Kauane\Studies\DIO\dotnet\desafio-net-hotelaria\obj\Debug\net8.0\desafio-net-hotelaria.csproj.CoreCompileInputs.cache
+C:\Users\Kauane\Studies\DIO\dotnet\desafio-net-hotelaria\obj\Debug\net8.0\desafio-net-hotelaria.dll
+C:\Users\Kauane\Studies\DIO\dotnet\desafio-net-hotelaria\obj\Debug\net8.0\refint\desafio-net-hotelaria.dll
+C:\Users\Kauane\Studies\DIO\dotnet\desafio-net-hotelaria\obj\Debug\net8.0\desafio-net-hotelaria.pdb
+C:\Users\Kauane\Studies\DIO\dotnet\desafio-net-hotelaria\obj\Debug\net8.0\desafio-net-hotelaria.genruntimeconfig.cache
+C:\Users\Kauane\Studies\DIO\dotnet\desafio-net-hotelaria\obj\Debug\net8.0\ref\desafio-net-hotelaria.dll
